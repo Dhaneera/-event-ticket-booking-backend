@@ -1,4 +1,4 @@
-# -event-ticket-booking-backend
+# event-ticket-booking-backend
 
 
 Event Ticket Booking System - Backend 🎟️
