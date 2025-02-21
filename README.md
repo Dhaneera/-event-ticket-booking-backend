@@ -15,12 +15,12 @@ Features
 ✅ Admin Dashboard APIs (Manage users, events, and transactions)
 
 Tech Stack
-	•	Backend: Spring Boot, Java
-	•	Database: MySQL / PostgreSQL
-	•	Security: JWT Authentication, Spring Security
-	•	QR Code: ZXing for QR Code Generation
-	•	Payment Integration: Stripe / PayPal API
-	•	API Documentation: Swagger
+•	Backend: Spring Boot, Java
+•	Database: MySQL / PostgreSQL
+•	Security: JWT Authentication, Spring Security
+•	QR Code: ZXing for QR Code Generation
+•	Payment Integration: Stripe / PayPal API
+•	API Documentation: Swagger
 
 Setup Instructions
 
